@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = r.mursekaev@gmail.com
+	name = Rashid Mursekaev
